@@ -1,4 +1,4 @@
-# EQA-Affordance-Grounding
+# EQA-Affordance-Grounding with Physical Reasoning
 This repository contains a prototype of a task completion in the field of Embodied AI or Robotics. It represent a lightweight, training-free sample task for affordance-grounding and physical reasoning for manipulation in embodied question answering (EQA), inspired by ManipVQA. 
 
 ## Task
