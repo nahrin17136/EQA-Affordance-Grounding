@@ -21,7 +21,4 @@ The implementation serves as a proof-of-concept.
 ## Hardware
 Experiments were conducted on Kaggle with limited GPU resources.
 
-## Author
-Nahrin Jannat
-
 
